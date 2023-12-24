@@ -1,0 +1,20 @@
+## lavender-user 9 PKQ1.180904.001 V11.0.5.0.PFGMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: sdm660
+- Codename: lavender
+- Brand: Xiaomi
+- Flavor: rising_lavender-eng
+- Release Version: 14
+- Kernel Version: 4.4.198
+- Id: UP1A.231105.003
+- Incremental: 1702844096
+- Tags: release-keys
+- CPU Abilist: arm64-v8a
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Xiaomi/rising_lavender/lavender:14/UP1A.231105.003/root12180133:eng/release-keys
+- OTA version: 
+- Branch: lavender-user-9-PKQ1.180904.001-V11.0.5.0.PFGMIXM-release-keys
+- Repo: xiaomi_lavender_dump

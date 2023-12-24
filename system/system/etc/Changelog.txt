@@ -1,0 +1,110 @@
+====================
+     12-17-2023
+====================
+
+
+   * bootable/recovery
+2023-12-17	Add flag whether MTE state was forced [Florian Mayer]
+
+   * hardware/qcom-caf/msm8998/audio
+2023-12-17	hal: Fix compile issues for android U. [Subhadra Jagadeesan]
+
+   * hardware/qcom-caf/msm8998/display
+2023-12-17	display: Remove deprecated clang property [basamaryan]
+
+   * system/libhidl
+2023-12-17	Revert "delete gBn/sConstructorMap" [Giovanni Ricca]
+
+   * vendor/risingOTA
+2023-12-17	Merge pull request #80 from ashutoshchettri/fourteen [Atharva Swamy]
+
+====================
+     12-16-2023
+====================
+
+
+====================
+     12-15-2023
+====================
+
+
+   * device/google/gs101
+2023-12-15	Revert "Enable compressed snapshots/VABc." [Neel Chauhan]
+
+   * device/google/gs101-sepolicy
+2023-12-15	Label vendor.dolby.media.c2@1.0-service [Michael Bestas]
+
+   * device/google/raviole
+2023-12-15	oriole: Update gms flags to accomodate vendor refactor [minaripenguin]
+
+====================
+     12-14-2023
+====================
+
+
+   * prebuilts/extract-tools
+2023-12-13	linux-x86: Add prebuilt ota_extractor [Michael Bestas]
+
+   * tools/extract-utils
+2023-12-13	extract-utils: Extract A/B OTA partitions in parallel [Michael Bestas]
+
+   * vendor/gms
+2023-12-14	gms: Cleanup and refactor [minaripenguin]
+
+====================
+     12-13-2023
+====================
+
+
+   * art
+2023-12-13	art: Increase stack frame limit for lto tunings [minaripenguin]
+
+   * build/soong
+2023-12-13	cc/lto: Limit ld flag tuning for modules without profiles [minaripenguin]
+
+   * frameworks/base
+2023-12-13	[SQUASHME] Island: Do not show empty island notification [minaripenguin]
+
+====================
+     12-12-2023
+====================
+
+
+====================
+     12-11-2023
+====================
+
+
+   * external/gptfdisk
+2023-12-10	gptfdisk: Make libsgdisk visible to libvolume_manager [Michael Bestas]
+
+====================
+     12-10-2023
+====================
+
+
+   * development
+2023-12-10	Merge tag 'android-14.0.0_r17' into staging/lineage-21.0_merge-android-14.0.0_r17 [Michael Bestas]
+
+   * hardware/qcom/wlan
+2023-12-10	Merge tag 'android-14.0.0_r17' into staging/lineage-21.0_merge-android-14.0.0_r17 [Michael Bestas]
+
+   * system/bpf
+2023-12-10	Merge tag 'android-14.0.0_r17' into staging/lineage-21.0_merge-android-14.0.0_r17 [Michael Bestas]
+
+   * system/extras
+2023-12-10	Merge tag 'android-14.0.0_r17' into staging/lineage-21.0_merge-android-14.0.0_r17 [Michael Bestas]
+
+====================
+     12-09-2023
+====================
+
+
+   * device/qcom/sepolicy_vndr/legacy-um
+2023-12-09	msmnile: Allow init write to discard_max_bytes [Michael Bestas]
+
+====================
+     12-08-2023
+====================
+
+
